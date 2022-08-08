@@ -19,3 +19,5 @@ The futher details to contact the dentists is
 
 The further details to contact the organization are provided along with the issued copyrights.
 ![Screenshot (34)](https://user-images.githubusercontent.com/70740433/183345787-176178a3-480e-4ffa-94e5-194ee0315bff.png)
+
+The website link url is here : https://lively-plant-0b650e110.1.azurestaticapps.net/
